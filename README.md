@@ -2,4 +2,4 @@
 
 github para desarrolladores
 
-[Esto es un enlace a Google](htt://www.google.es)
+[Esto es un enlace a Google](http://www.google.es)
